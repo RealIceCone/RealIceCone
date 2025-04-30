@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RealIceCone
+- 👀 I’m interested in python and lua
+- 🌱 I’m currently learning python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Python is a programming language 😱
