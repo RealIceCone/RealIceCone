@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RealIceCone
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Godot
+- 🌱 I’m currently learning Godot
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Python is a programming language 😱
