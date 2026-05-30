@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RealIceCone
-- 👀 I’m interested in Godot
-- 🌱 I’m currently learning Godot
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Python 
 - 😄 Pronouns: He/Him
